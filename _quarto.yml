@@ -17,8 +17,21 @@ book:
   chapters:
     - index.qmd
     - intro.qmd
-    - references.qmd
+    - register_and_settings.qmd
     - projects.qmd
+    - part: basic_use.qmd #開始入門
+      chapters: 
+              - creat_an_accont.qmd #註冊及設定
+              - observations.qmd #觀察記錄
+              - exploring_obs.qmd #探索觀察記錄
+              - identification.qmd #鑑定觀察記錄
+    - part: advanced_use.qmd #進階使用
+      chapters: 
+              - observation_field.qmd #設定資料欄位
+              - community_guidelines.qmd #社群規範
+              - teachers_guide.qmd #教師指南
+              - faq.qmd
+    - references.qmd
 
 bibliography: references.bib
 
