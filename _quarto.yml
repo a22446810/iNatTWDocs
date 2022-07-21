@@ -21,7 +21,7 @@ book:
     - projects.qmd
     - part: basic_use.qmd #開始入門
       chapters: 
-              - creat_an_accont.qmd #註冊及設定
+              - create_an_accont.qmd #註冊及設定
               - observations.qmd #觀察記錄
               - exploring_obs.qmd #探索觀察記錄
               - identification.qmd #鑑定觀察記錄
