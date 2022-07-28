@@ -30,7 +30,7 @@ book:
               - observation_field.qmd #設定資料欄位
               - community_guidelines.qmd #社群規範
               - teachers_guide.qmd #教師指南
-              - faq.qmd
+              - faq.qmd #常見問題集
     - references.qmd
 
 bibliography: references.bib
